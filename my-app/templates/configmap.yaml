@@ -7,7 +7,7 @@ data:
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Welcome to Kubernetes</title>
+        <title>Welcome to Kubernetes as always</title>
         <style>
             body { font-family: sans-serif; text-align: center; margin-top: 10%; background-color: #f0f2f5; }
             h1 { color: #333; }
