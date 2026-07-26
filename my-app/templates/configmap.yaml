@@ -14,7 +14,7 @@ data:
         </style>
     </head>
     <body>
-        <h1>Hello from ArgoCD and Minikube!</h1>
+        <h1>Hello from ArgoCD and Minikube! integration</h1>
         <p>This message is powered by a Kubernetes ConfigMap.</p>
     </body>
     </html>
